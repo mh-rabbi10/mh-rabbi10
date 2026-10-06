@@ -11,7 +11,7 @@
 ---
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mh-moaz10&label=Profile%20views&color=0e75b6&style=flat" alt="mh-moaz10" />
+  <img src="https://komarev.com/ghpvc/?username=mh-rabbi10&label=Profile%20views&color=0e75b6&style=flat" alt="mh-rabbi10" />
 </p>
 
 ---
@@ -23,7 +23,7 @@
   <a href="https://instagram.com/@shah_moaz_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://codeforces.com/profile/shah_moaz10" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a>
   <a href="https://www.codechef.com/users/moaz100" target="_blank"><img src="https://img.shields.io/badge/CodeChef-339933?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"></a>
-  <a href="https://github.com/mh-moaz10" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://github.com/mh-rabbi10" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 ---
@@ -84,12 +84,12 @@
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mh-moaz10&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mh-moaz10&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mh-rabbi10&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mh-rabbi10&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mh-moaz10&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mh-rabbi10&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
